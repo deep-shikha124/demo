@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    height: 100vh;
+    background-color:#009688 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dp{
+    width: 50vh;
+    border-style:solid;
+    border-width: 3px;
+    border-color: white;
+    border-radius:50px ;
+    margin:50px;
+}
